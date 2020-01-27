@@ -24,3 +24,7 @@ You can now see inside each of the tables which have been populated with test da
 
 
 In chrome go to localhost/portNo from here you can navigate around the system.
+
+
+For a working application, please follow this guide:
+https://www.c-sharpcorner.com/article/publish-asp-net-core-2-0-application-on-iis/
